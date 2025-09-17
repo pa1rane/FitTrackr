@@ -10,13 +10,14 @@
   "license": "ISC",
   "description": "The FitTrackr is a web platform that helps fitness trainers assign daily habits (steps, water intake, sleep, diet photos, etc.) to their clients, while clients can check in daily, and trainers can view a progress dashboard",
   "dependencies": {
-    "@tailwindcss/postcss": "^4.1.13",
-    "autoprefixer": "^10.4.21",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "tailwindcss": "^4.1.13"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
-    "parcel": "^2.15.4"
+    "@tailwindcss/postcss": "^4.1.13",
+    "autoprefixer": "^10.4.21",
+    "parcel": "^2.15.4",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2"
   }
 }
