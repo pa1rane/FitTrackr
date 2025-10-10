@@ -1,7 +1,10 @@
 {
   "name": "Fit Trackr",
   "version": "1.0.0",
-  "scripts": {},
+  "source": "./src/index.html",
+  "scripts": {
+    "start": "parcel"
+  },
   "keywords": [],
   "author": "Pavan Rane",
   "license": "ISC",
